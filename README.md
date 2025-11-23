@@ -27,6 +27,17 @@ https://github.com/sadiarehman107023/RandomForest-MLProject
 
 
 ## How to Reproduce Experiments
+Follow these steps in **Command Prompt** or **PowerShell**:
+
+# 2️⃣ Create and activate a conda environment
+conda create -n rf_mlproj python=3.11 -y
+conda activate rf_mlproj
+
+# 3️⃣ Install all required Python packages
+pip install -r requirements.txt
+
+# 4️⃣ Run the main experiment script
+python model_comparison.py
 
 1. **Clone the repository**  
    Open Command Prompt or PowerShell and run:
