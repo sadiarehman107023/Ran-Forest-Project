@@ -14,4 +14,8 @@ This project explores Random Forests on two datasets:
 - Accuracy: 0.91  
 - Model: RandomForestClassifier on flattened image pixels
 
-
+Dataset	Source (Kaggle link)	
+Heart Disease UCI	https://www.kaggle.com/datasets/ronitf/heart-disease-uci
+	Tabular
+Intel Image Classification	https://www.kaggle.com/datasets/puneet6060/intel-image-classification
+	Image
