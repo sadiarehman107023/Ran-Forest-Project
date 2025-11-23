@@ -19,3 +19,17 @@ Heart Disease UCI	https://www.kaggle.com/datasets/ronitf/heart-disease-uci
 	Tabular
 Intel Image Classification	https://www.kaggle.com/datasets/puneet6060/intel-image-classification
 	Image
+# RandomForest ML Project
+
+# GitHub Repository
+https://github.com/sadiarehman107023/RandomForest-MLProject
+
+
+
+## How to Reproduce Experiments
+
+1. **Clone the repository**  
+   Open Command Prompt or PowerShell and run:
+   ```bash
+   git clone https://github.com/sadiarehman107023/RandomForest-MLProject.git
+   cd RandomForest-MLProject
